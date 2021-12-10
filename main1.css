@@ -1,0 +1,20 @@
+h1{
+    color: coral;
+}
+
+.class1{
+    color: chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#id2{
+    color: darkblue;
+} 
+.container {
+    border: 22px solid blue;
+}
+
+.custom {
+    border: 24px solid darkolivegreen;
+    margin: 10%;
+}
